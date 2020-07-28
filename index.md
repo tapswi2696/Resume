@@ -1,16 +1,16 @@
 # RESUME
 
-Name : Parth Vijaykumar Shah 
+**Name** : Parth Vijaykumar Shah 
 
-Phone Number : +1(202)-352-4247
+**Phone Number** : +1(202)-352-4247
 
-Email : tapswi2696@gmail.com
+**Email** : tapswi2696@gmail.com
 
-Github : tapswi2696
+**Github** : tapswi2696
 
 # =================================
 
-	Over 3 years of experience in statistical SAS® programming in pharmaceutical and Medical device industry with a strong knowledge involving all four phases of clinical trials across various therapeutic areas.
+           Over 3 years of experience in statistical SAS® programming in pharmaceutical and Medical device industry with a strong knowledge involving all four phases of clinical trials across various therapeutic areas.
 
 	Has excellent programming with strong analytical background.
 
@@ -43,7 +43,7 @@ Github : tapswi2696
 
 1. **SAS Tools**: SAS/BASE, SAS/MACRO, SAS/SQL, SAS/STAT, SAS/ODS, SAS/GRAPH, SAS/ACCESS, SAS/CONNECT, SAS/EG
 
-2. **SAS Procedures**: PRINT, MEANS, SQL, REPORT, FREQ, SORT, FORMAT, DATASETS, CATALOG, TRANSPOSE, COMPARE, GPLOT, UNIVARIATE, LIFETEST, PHREG, GLM, MIXED,                                LOGISTIC
+2. **SAS Procedures**: PRINT, MEANS, SQL, REPORT, FREQ, SORT, FORMAT, DATASETS, CATALOG, TRANSPOSE, COMPARE, GPLOT, UNIVARIATE, LIFETEST, PHREG, GLM, MIXED,LOGISTIC 
 
 3. **Business Tools**: Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 
