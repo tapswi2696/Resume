@@ -4,9 +4,11 @@
 
 **Email** : tapswi2696@gmail.com
 
-**Github** : tapswi2696
+**Github** : tapswi2696 (https://github.com/tapswi2696)
 
-# ==========================================
+
+
+# =================================
 
            Over 3 years of experience in statistical SAS® programming in pharmaceutical and Medical device industry with a strong knowledge involving all four phases of clinical trials across various therapeutic areas.
 
@@ -35,7 +37,12 @@
 
 	Experience in R Programming, developed R-Shiny application dashboards. 
 
-# ==========================================
+# =================================
+# PROJECTS 
+
+1. **HandyCT**(https://shahparth.shinyapps.io/handyct/) - CDISC control terminology R shiny application 
+
+# =================================
 # TECHNICAL SKILLS
 
 1. **SAS Tools**: SAS/BASE, SAS/MACRO, SAS/SQL, SAS/STAT, SAS/ODS, SAS/GRAPH, SAS/ACCESS, SAS/CONNECT, SAS/EG
@@ -50,7 +57,7 @@
             
 6. **Statistical Languages**: R, SAS, python 
 
-# ==========================================
+# =================================
 # PROFESSIONAL EXPERIENCE
 
 #### Position :Statistical Programmer | Employer :Astrazeneca,Inc.(Gaithersburg,MD) ##### Work Year :06/20-Current
@@ -160,8 +167,7 @@
 
 	Creation of various Ad-hoc deliverable to aid Statistician and Clinician in decision making.
 
-
-# ==========================================
+# =================================
 # EDUCATION QUALIFICATION
 
 	M.S. in Data analytics, Harrisburg University, Pennsylvania U.S.A. (Currently Perusing)
