@@ -41,17 +41,17 @@ Github : tapswi2696
 
 ```markdown
 
-### SAS Tools: SAS/BASE, SAS/MACRO, SAS/SQL, SAS/STAT, SAS/ODS, SAS/GRAPH, SAS/ACCESS, SAS/CONNECT, SAS/EG
+1. SAS Tools: SAS/BASE, SAS/MACRO, SAS/SQL, SAS/STAT, SAS/ODS, SAS/GRAPH, SAS/ACCESS, SAS/CONNECT, SAS/EG
 
-### SAS Procedures: PRINT, MEANS, SQL, REPORT, FREQ, SORT, FORMAT, DATASETS, CATALOG, TRANSPOSE, COMPARE, GPLOT, UNIVARIATE, LIFETEST, PHREG, GLM, MIXED, LOGISTIC
+2. SAS Procedures: PRINT, MEANS, SQL, REPORT, FREQ, SORT, FORMAT, DATASETS, CATALOG, TRANSPOSE, COMPARE, GPLOT, UNIVARIATE, LIFETEST, PHREG, GLM, MIXED, LOGISTIC
 
-### Business Tools: Microsoft Word, Microsoft Excel, Microsoft PowerPoint
+3. Business Tools: Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 
-### Operating Systems: Windows, UNIX
+4. Operating Systems: Windows, UNIX
 
-### Tools : SAS/EG 7.1, SAS/EG 8.1, SAS/Studio, R, R-Studio, MobaXterm, WinSCP, minitab, Atlassian/Confluence, Atlassian/Jira, Github, Jupyter Notebook.      
+5. Tools : SAS/EG 7.1, SAS/EG 8.1, SAS/Studio, R, R-Studio, MobaXterm, WinSCP, minitab, Atlassian/Confluence, Atlassian/Jira, Github, Jupyter Notebook.      
             
-### Statistical Languages: R, SAS, python 
+6. Statistical Languages: R, SAS, python 
 
 ```
 
