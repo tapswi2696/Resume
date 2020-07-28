@@ -55,8 +55,8 @@
 # ==========================================
 # PROFESSIONAL EXPERIENCE
 
-#### Position  : Statistical Programmer | Employer : Astrazeneca, Gaithersburg, MD 
-##### Work Year : 06/20-Current
+#### **Position**:Statistical Programmer|Employer:Astrazeneca,Inc.(Gaithersburg,MD)
+##### **Work Year**:06/20-Current
 
 	Created Kaplan-Meier curve for Event Free Survival analysis using, KM Event Rate for medical device data. 
 
@@ -169,7 +169,7 @@
 
 
 # ==========================================
-# EDUCATIONAL QUALIFICATION
+# EDUCATION QUALIFICATION
 
 	M.S. in Data analytics, Harrisburg University, Pennsylvania U.S.A. (Currently Perusing)
 
