@@ -58,20 +58,9 @@
 6. **Statistical Languages**: R, SAS, python 
 
 # =================================
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-#### Position :Statistical Programmer | Employer :Astrazeneca,Inc.(Gaithersburg,MD) ##### Work Year :06/20-Current
-
-	Created Kaplan-Meier curve for Event Free Survival analysis using, KM Event Rate for medical device data. 
-
-	Created multiple report, listings and graphs for various end points. 
-
-	Experience working on multiple submissions for PMA (Post marketing approvals).
-
-	Created SAS macros for reporting tables for subgroup analyses.
-
-
-#### Position  :Statistical Programming Consultant | Employer :KVRA Tech NJ (End client :Medtronic, Santa Rosa CA)      ##### Work Year :11/19-06/20
+##### Statistical Programmer| Astrazeneca,Inc.| Gaithersburg,MD| 06/20-Current
 
 	Created Kaplan-Meier curve for Event Free Survival analysis using, KM Event Rate for medical device data. 
 
@@ -82,7 +71,18 @@
 	Created SAS macros for reporting tables for subgroup analyses.
 
 
-#### Position :Statistical Programming Consultant | Employer :KVRA Tech NJ (End client :Myovant Science CA) 		##### Work Year : 02/18-08/19
+#### Statistical Programming Consultant| KVRA Tech NJ [End client:Medtronic, Santa Rosa CA]| 11/19-06/20
+
+	Created Kaplan-Meier curve for Event Free Survival analysis using, KM Event Rate for medical device data. 
+
+	Created multiple report, listings and graphs for various end points. 
+
+	Experience working on multiple submissions for PMA (Post marketing approvals).
+
+	Created SAS macros for reporting tables for subgroup analyses.
+
+
+#### Statistical Programming Consultant| KVRA Tech NJ [End client :Myovant Science CA]| 02/18-08/19
 
 	Experience working in Phase I, II, and III clinical trials. 
 
@@ -107,7 +107,7 @@
 	Created SAS macros for reporting of the multiple tables across studies and for the similar tables for subgroup analyses.
 
 
-#### Position :Statistical Programmer | Employer :KVRA Tech,Piscataway NJ 						##### Work Year :12/17 – 02/18 
+#### Statistical Programmer|KVRA Tech,Piscataway NJ | 12/17 – 02/18 
 	                                                                                 
 	Created and performed validation of Oncology ADaM datasets such as ADTTE, ADTR and ADRS.
 
@@ -129,7 +129,7 @@
 
 	Experience annotating Case Report Forms (CRFs), QC annotated CRF.
 
-#### Position :Clinical SAS Programmer | Employer :Rang technologies,Piscataway NJ  					##### Work Year :04/16 – 12/17
+#### Clinical SAS Programmer | Rang technologies,Piscataway NJ | 04/16 – 12/17
 		              	   		               
 	Mapped the CRF/ raw data to SDTM domains according to CDISC SDTM standards.
 
@@ -168,7 +168,7 @@
 	Creation of various Ad-hoc deliverable to aid Statistician and Clinician in decision making.
 
 # =================================
-# EDUCATION QUALIFICATION
+## EDUCATION QUALIFICATION
 
 	M.S. in Data analytics, Harrisburg University, Pennsylvania U.S.A. (Currently Perusing)
 
