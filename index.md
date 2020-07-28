@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Resume
 
-You can use the [editor on GitHub](https://github.com/tapswi2696/me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Name : Parth Vijaykumar Shah 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Phone Number : +1(202)-352-4247
+
+Email : tapswi2696@gmail.com[tapswi2696@gmail.com]
 
 ### Markdown
 
