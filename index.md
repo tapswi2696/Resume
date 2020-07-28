@@ -1,6 +1,4 @@
-# RESUME
-
-**Name** : Parth Vijaykumar Shah 
+# Parth Shah
 
 **Phone Number** : +1(202)-352-4247
 
