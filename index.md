@@ -38,12 +38,12 @@
 	Experience in R Programming, developed R-Shiny application dashboards. 
 
 # =================================
-# PROJECTS 
+## PROJECTS 
 
 1. [**HandyCT**](https://shahparth.shinyapps.io/handyct/) - CDISC control terminology R shiny application 
 
 # =================================
-# TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 1. **SAS Tools**: SAS/BASE, SAS/MACRO, SAS/SQL, SAS/STAT, SAS/ODS, SAS/GRAPH, SAS/ACCESS, SAS/CONNECT, SAS/EG
 
@@ -71,7 +71,7 @@
 	Created SAS macros for reporting tables for subgroup analyses.
 
 
-#### Statistical Programming Consultant| KVRA Tech NJ [End client:Medtronic, Santa Rosa CA]| 11/19-06/20
+###### Statistical Programming Consultant| KVRA Tech NJ [End client:Medtronic, Santa Rosa CA]| 11/19-06/20
 
 	Created Kaplan-Meier curve for Event Free Survival analysis using, KM Event Rate for medical device data. 
 
@@ -82,7 +82,7 @@
 	Created SAS macros for reporting tables for subgroup analyses.
 
 
-#### Statistical Programming Consultant| KVRA Tech NJ [End client :Myovant Science CA]| 02/18-08/19
+###### Statistical Programming Consultant| KVRA Tech NJ [End client :Myovant Science CA]| 02/18-08/19
 
 	Experience working in Phase I, II, and III clinical trials. 
 
@@ -107,7 +107,7 @@
 	Created SAS macros for reporting of the multiple tables across studies and for the similar tables for subgroup analyses.
 
 
-#### Statistical Programmer|KVRA Tech,Piscataway NJ | 12/17 – 02/18 
+##### Statistical Programmer|KVRA Tech,Piscataway NJ | 12/17 – 02/18 
 	                                                                                 
 	Created and performed validation of Oncology ADaM datasets such as ADTTE, ADTR and ADRS.
 
@@ -129,7 +129,7 @@
 
 	Experience annotating Case Report Forms (CRFs), QC annotated CRF.
 
-#### Clinical SAS Programmer | Rang technologies,Piscataway NJ | 04/16 – 12/17
+##### Clinical SAS Programmer | Rang technologies,Piscataway NJ | 04/16 – 12/17
 		              	   		               
 	Mapped the CRF/ raw data to SDTM domains according to CDISC SDTM standards.
 
