@@ -1,8 +1,11 @@
 # Resume
 
 Name : Parth Vijaykumar Shah 
+
 Phone Number : +1(202)-352-4247
+
 Email : tapswi2696@gmail.com
+
 Github : tapswi2696@gmail.com
 
 ### Markdown
