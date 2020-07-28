@@ -6,6 +6,7 @@
 
 **Github** : [tapswi2696](https://github.com/tapswi2696)
 
+**Resume** : [aboutme](https://tapswi2696.github.io/Resume/)
 
 # =================================
 
