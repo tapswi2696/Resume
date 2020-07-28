@@ -4,8 +4,7 @@
 
 **Email** : tapswi2696@gmail.com
 
-**Github** : tapswi2696 (https://github.com/tapswi2696)
-
+**Github** : [tapswi2696](https://github.com/tapswi2696)
 
 
 # =================================
@@ -40,7 +39,7 @@
 # =================================
 # PROJECTS 
 
-1. **HandyCT**(https://shahparth.shinyapps.io/handyct/) - CDISC control terminology R shiny application 
+1. [**HandyCT**](https://shahparth.shinyapps.io/handyct/) - CDISC control terminology R shiny application 
 
 # =================================
 # TECHNICAL SKILLS
