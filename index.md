@@ -2,7 +2,7 @@
 
 **Phone Number** : +1(202)-352-4247
 
-**Email** : tapswi2696@gmail.com
+**Email** : [tapswi2696@gmail.com](tapswi2696@gmail.com)
 
 **Github** : [tapswi2696](https://github.com/tapswi2696)
 
