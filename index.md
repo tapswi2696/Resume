@@ -1,7 +1,6 @@
 # Parth Shah
 
-<img src="https://github.com/tapswi2696/Resume/blob/master/pic.png" width=200 align=left>
-
+![image](https://github.com/tapswi2696/Resume/blob/master/pic.png)
 
 **Email** : tapswi2696@gmail.com
 
