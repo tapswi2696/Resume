@@ -10,7 +10,7 @@
 
 # =================================
 
-           Over 3 years of experience in statistical SAS® programming in pharmaceutical and Medical device industry with a strong knowledge involving all four phases of clinical trials across various therapeutic areas.
+           Over 4 years of experience in statistical SAS® programming in pharmaceutical and Medical device industry with a strong knowledge involving all four phases of clinical trials across various therapeutic areas.
 
 	Has excellent programming with strong analytical background.
 
