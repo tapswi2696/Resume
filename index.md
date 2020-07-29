@@ -1,14 +1,17 @@
 # Parth Shah
 
-**Phone Number** : +1(202)-352-4247
+<img src="https://github.com/tapswi2696/Resume/blob/master/pic.png" width=200 align=left>
+
 
 **Email** : tapswi2696@gmail.com
+
+**Phone Number** : +1(202)-352-4247
 
 **Github** : [tapswi2696](https://github.com/tapswi2696)
 
 **Resume** : [aboutme](https://tapswi2696.github.io/Resume/)
 
-# =================================
+# ===============================
 
            Over 4 years of experience in statistical SAS® programming in pharmaceutical and Medical device industry with a strong knowledge involving all four phases of clinical trials across various therapeutic areas.
 
