@@ -1,7 +1,5 @@
 # Parth Shah
 
-![image](https://github.com/tapswi2696/Resume/blob/master/pic.png)
-
 **Email** : tapswi2696@gmail.com
 
 **Phone Number** : +1(202)-352-4247
